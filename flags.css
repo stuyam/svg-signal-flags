@@ -1,147 +1,213 @@
-.flag-border{
-  border: 1px solid black;
+.flag{
+  height: calc(100vw/13);
+  display: inline-block;
 }
 
-.flag-a{
+.flag-s-2{
+  height: 2em;
+}
+
+.flag-s-3{
+  height: 3em;
+}
+
+.flag-s-4{
+  height: 4em;
+}
+
+.flag-s-5{
+  height: 5em;
+}
+
+.flag-border{
+  /*padding: 4px;*/
+  /*background-color: #fff;*/
+  border: 1px solid #ddd;
+  /*border-radius: 4px;*/
+}
+
+/* NATO phonetic alphabet reference: https://en.wikipedia.org/wiki/NATO_phonetic_alphabet */
+
+.flag-a,
+.flag-alfa,
+.flag-alpha{
   content: url(svg/a.svg);
 }
 
-.flag-b{
+.flag-b,
+.flag-bravo{
   content: url(svg/b.svg);
 }
 
-.flag-c{
+.flag-c,
+.flag-charlie{
   content: url(svg/c.svg);
 }
 
-.flag-d{
+.flag-d,
+.flag-delta{
   content: url(svg/d.svg);
 }
 
-.flag-e{
+.flag-e,
+.flag-echo{
   content: url(svg/e.svg);
 }
 
-.flag-f{
+.flag-f,
+.flag-foxtrot{
   content: url(svg/f.svg);
 }
 
-.flag-g{
+.flag-g,
+.flag-golf{
   content: url(svg/g.svg);
 }
 
-.flag-h{
+.flag-h,
+.flag-hotel{
   content: url(svg/h.svg);
 }
 
-.flag-i{
+.flag-i,
+.flag-india{
   content: url(svg/i.svg);
 }
 
-.flag-j{
+.flag-j,
+.flag-juliett,
+.flag-juliet{
   content: url(svg/j.svg);
 }
 
-.flag-k{
+.flag-k,
+.flag-kilo{
   content: url(svg/k.svg);
 }
 
-.flag-l{
+.flag-l,
+.flag-lima{
   content: url(svg/l.svg);
 }
 
-.flag-m{
+.flag-m,
+.flag-mike{
   content: url(svg/m.svg);
 }
 
-.flag-n{
+.flag-n,
+.flag-november{
   content: url(svg/n.svg);
 }
 
-.flag-o{
+.flag-o,
+.flag-oscar{
   content: url(svg/o.svg);
 }
 
-.flag-p{
+.flag-p,
+.flag-papa{
   content: url(svg/p.svg);
 }
 
-.flag-q{
+.flag-q,
+.flag-quebec{
   content: url(svg/q.svg);
 }
 
-.flag-r{
+.flag-r,
+.flag-romeo{
   content: url(svg/r.svg);
 }
 
-.flag-s{
+.flag-s,
+.flag-sierra{
   content: url(svg/s.svg);
 }
 
-.flag-t{
+.flag-t,
+.flag-tango{
   content: url(svg/t.svg);
 }
 
-.flag-u{
+.flag-u,
+.flag-uniform{
   content: url(svg/u.svg);
 }
 
-.flag-v{
+.flag-v,
+.flag-victor{
   content: url(svg/v.svg);
 }
 
-.flag-w{
+.flag-w,
+.flag-whiskey{
   content: url(svg/w.svg);
 }
 
-.flag-x{
+.flag-x,
+.flag-x-ray,
+.flag-xray{
   content: url(svg/x.svg);
 }
 
-.flag-y{
+.flag-y,
+.flag-yankee{
   content: url(svg/y.svg);
 }
 
-.flag-z{
+.flag-z,
+.flag-zulu{
   content: url(svg/z.svg);
 }
 
-.flag-0{
+.flag-0,
+.flag-zero{
   content: url(svg/0.svg);
 }
 
-.flag-1{
+.flag-1,
+.flag-one{
   content: url(svg/1.svg);
 }
 
-.flag-2{
+.flag-2,
+.flag-two{
   content: url(svg/2.svg);
 }
 
-.flag-3{
+.flag-3,
+.flag-three{
   content: url(svg/3.svg);
 }
 
-.flag-4{
+.flag-4,
+.flag-four{
   content: url(svg/4.svg);
 }
 
-.flag-5{
+.flag-5,
+.flag-five{
   content: url(svg/5.svg);
 }
 
-.flag-6{
+.flag-6,
+.flag-six{
   content: url(svg/6.svg);
 }
 
-.flag-7{
+.flag-7,
+.flag-seven{
   content: url(svg/7.svg);
 }
 
-.flag-8{
+.flag-8,
+.flag-eight{
   content: url(svg/8.svg);
 }
 
-.flag-9{
+.flag-9,
+.flag-nine,
+.flag-niner{
   content: url(svg/9.svg);
 }
