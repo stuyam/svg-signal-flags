@@ -1,6 +1,6 @@
 # SVG Signal Flags
 
-## Examples
+## Letters
 ![a](https://cdn.rawgit.com/stuyam/svg-signal-flags/master/svg/a.svg)
 ![b](https://cdn.rawgit.com/stuyam/svg-signal-flags/master/svg/b.svg)
 ![c](https://cdn.rawgit.com/stuyam/svg-signal-flags/master/svg/c.svg)
@@ -27,6 +27,10 @@
 ![x](https://cdn.rawgit.com/stuyam/svg-signal-flags/master/svg/x.svg)
 ![y](https://cdn.rawgit.com/stuyam/svg-signal-flags/master/svg/y.svg)
 ![z](https://cdn.rawgit.com/stuyam/svg-signal-flags/master/svg/z.svg)
+
+___
+
+## Numbers
 ![0](https://cdn.rawgit.com/stuyam/svg-signal-flags/master/svg/0.svg)
 ![1](https://cdn.rawgit.com/stuyam/svg-signal-flags/master/svg/1.svg)
 ![2](https://cdn.rawgit.com/stuyam/svg-signal-flags/master/svg/2.svg)
