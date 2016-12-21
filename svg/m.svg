@@ -1,0 +1,5 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" x="0" y="0" style="fill:#053378;"/>
+  <path d="M0 0 L15 0 L120 105 L120 120 L105 120 L0 15 L0 0 Z" style="fill:white;"/>
+  <path d="M120 0 L120 15 L15 120 L0 120 L0 105 L105 0 L120 0 Z" style="fill:white;"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0 L120 0 L60 60 L0 0 Z" style="fill:#fdd13d;"/>
+  <path d="M120 0 L120 120 L60 60 L120 0 Z" style="fill:#053378;"/>
+  <path d="M120 120 L0 120 L60 60 L120 120 Z" style="fill:#b30507;"/>
+  <path d="M0 120 L0 0 L60 60 L0 120 Z" style="fill:black;"/>
+</svg>

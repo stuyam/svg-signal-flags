@@ -1,0 +1,21 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="30" height="30" x="0" y="0" style="fill:#053378;"/>
+  <rect width="30" height="30" x="30" y="0" style="fill:white;"/>
+  <rect width="30" height="30" x="60" y="0" style="fill:#053378;"/>
+  <rect width="30" height="30" x="90" y="0" style="fill:white;"/>
+
+  <rect width="30" height="30" x="0" y="30" style="fill:white;"/>
+  <rect width="30" height="30" x="30" y="30" style="fill:#053378;"/>
+  <rect width="30" height="30" x="60" y="30" style="fill:white;"/>
+  <rect width="30" height="30" x="90" y="30" style="fill:#053378;"/>
+
+  <rect width="30" height="30" x="0" y="60" style="fill:#053378;"/>
+  <rect width="30" height="30" x="30" y="60" style="fill:white;"/>
+  <rect width="30" height="30" x="60" y="60" style="fill:#053378;"/>
+  <rect width="30" height="30" x="90" y="60" style="fill:white;"/>
+
+  <rect width="30" height="30" x="0" y="90" style="fill:white;"/>
+  <rect width="30" height="30" x="30" y="90" style="fill:#053378;"/>
+  <rect width="30" height="30" x="60" y="90" style="fill:white;"/>
+  <rect width="30" height="30" x="90" y="90" style="fill:#053378;"/>
+</svg>
