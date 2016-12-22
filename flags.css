@@ -1,6 +1,9 @@
 .flag{
-  height: calc(100vw/13);
-  display: inline-block;
+  height: 1em;
+}
+
+i.flag{
+  vertical-align: top;
 }
 
 .flag-s-2{
@@ -19,18 +22,10 @@
   height: 5em;
 }
 
-.flag-border{
-  /*padding: 4px;*/
-  /*background-color: #fff;*/
-  border: 1px solid #ddd;
-  /*border-radius: 4px;*/
-}
-
-/* NATO phonetic alphabet reference: https://en.wikipedia.org/wiki/NATO_phonetic_alphabet */
+/* International maritime signal flags reference: https://en.wikipedia.org/wiki/International_maritime_signal_flags */
 
 .flag-a,
-.flag-alfa,
-.flag-alpha{
+.flag-alfa{
   content: url(svg/a.svg);
 }
 
@@ -75,7 +70,6 @@
 }
 
 .flag-j,
-.flag-juliett,
 .flag-juliet{
   content: url(svg/j.svg);
 }
@@ -146,7 +140,6 @@
 }
 
 .flag-x,
-.flag-x-ray,
 .flag-xray{
   content: url(svg/x.svg);
 }
@@ -207,7 +200,6 @@
 }
 
 .flag-9,
-.flag-nine,
-.flag-niner{
+.flag-nine{
   content: url(svg/9.svg);
 }
