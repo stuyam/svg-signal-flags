@@ -1,0 +1,20 @@
+{
+  "name": "svg-signal-flags",
+  "version": "1.0.0",
+  "description": "Nautical signal flags made in svg with an optional css framework.",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject-string": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuyam/svg-signal-flags.git"
+  },
+  "author": "Stuart Yamartino",
+  "license": "MIT"
+}
