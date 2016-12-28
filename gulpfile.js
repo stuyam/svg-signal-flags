@@ -10,14 +10,14 @@ var BLACK  = '#000000';
 var BORDER = '#d8d8d8';
 
 gulp.task('build', function() {
-  gulp.src('./src/*.svg')
+  gulp.src('./src/svg/*.svg')
   .pipe(inject.replace('RED', RED))
   .pipe(inject.replace('BLUE', BLUE))
   .pipe(inject.replace('YELLOW', YELLOW))
   .pipe(inject.replace('WHITE', WHITE))
   .pipe(inject.replace('BLACK', BLACK))
   .pipe(inject.replace('BORDER', BORDER))
-  .pipe(gulp.dest('./svg'))
+  .pipe(gulp.dest('./dist/svg'))
   .pipe(svg2png())
-  .pipe(gulp.dest('./png'));
+  .pipe(gulp.dest('./dist/png'));
 });
