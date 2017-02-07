@@ -1,5 +1,5 @@
 var gulp    = require('gulp');
-var inject  = require('gulp-inject-string')
+var inject  = require('gulp-inject-string');
 var svg2png = require('gulp-svg2png');
 
 var RED    = '#b30507';
