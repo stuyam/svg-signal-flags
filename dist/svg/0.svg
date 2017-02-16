@@ -2,4 +2,4 @@
   <path fill="#fdd13d" d="M0 0 L240 40 L240 80 L0 120 Z"/>
   <path fill="#b30507" d="M80 14 L160 27 L160 93 L80 106 L80 27 Z"/>
   <path fill="none" stroke-width="2" stroke="#d8d8d8" d="M1 1 L239 40 L239 80 L1 119 Z"/>
-</svg>
+<svg x="0" y="80" height="40" width="40"><path x="1" y="1" d="M1 1 L35 1 Q39 1 39 5 L39 39 L1 39 Z" width="40" height="40" fill="#ffffff" stroke-width="2" stroke="#d8d8d8"/><text x="20" y="20" font-size="30" fill="#000000" text-anchor="middle" dy="10" font-family="Arial, sans-serif">undefined</text></svg></svg>

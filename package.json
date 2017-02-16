@@ -6,8 +6,10 @@
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-each": "^0.3.0",
     "gulp-inject-string": "^1.1.0",
-    "gulp-svg2png": "^2.0.2"
+    "gulp-svg2png": "^2.0.2",
+    "read-file": "^0.2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

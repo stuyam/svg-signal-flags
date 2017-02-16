@@ -5,4 +5,8 @@
   <rect fill="WHITE" width="120" height="24" x="0" y="72"/>
   <rect fill="BLUE" width="120" height="24" x="0" y="96"/>
   <rect fill="none" stroke-width="2" stroke="BORDER" width="118" height="118" x="1" y="1"/>
+  <svg x="0" y="80" height="40" width="40">
+    <path x="1" y="1" d="M1 1 L35 1 Q39 1 39 5 L39 39 L1 39 Z" width="40" height="40" fill="WHITE" stroke-width="2" stroke="BORDER"/>
+    <text x="20" y="20" font-size="30" fill="BLACK" text-anchor="middle" dy="10" font-family="-apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif">C</text>
+  </svg>
 </svg>

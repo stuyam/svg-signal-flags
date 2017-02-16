@@ -3,4 +3,4 @@
   <path fill="#ffffff" d="M0 0 L15 0 L120 105 L120 120 L105 120 L0 15 L0 0 Z"/>
   <path fill="#ffffff" d="M120 0 L120 15 L15 120 L0 120 L0 105 L105 0 L120 0 Z"/>
   <rect fill="none" stroke-width="2" stroke="#d8d8d8" width="118" height="118" x="1" y="1"/>
-</svg>
+<svg x="0" y="80" height="40" width="40"><path x="1" y="1" d="M1 1 L35 1 Q39 1 39 5 L39 39 L1 39 Z" width="40" height="40" fill="#ffffff" stroke-width="2" stroke="#d8d8d8"/><text x="20" y="20" font-size="30" fill="#000000" text-anchor="middle" dy="10" font-family="Arial, sans-serif">undefined</text></svg></svg>
